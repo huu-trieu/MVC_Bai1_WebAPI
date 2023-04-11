@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="DBBaiHat">
+  <DataContextMoniker Name="/DBBaiHatDataContext" />
+  <nestedChildShapes>
+    <classShape Id="730e06c3-f9f4-43f6-b037-7e21e1e88884" absoluteBounds="2.25, 1.375, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/DBBaiHatDataContext/tbl_BaiHat" />
+      <nestedChildShapes>
+        <elementListCompartment Id="1deaadfb-73b0-4068-a46d-827c2554e515" absoluteBounds="2.265, 1.835, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
